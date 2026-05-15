@@ -125,9 +125,9 @@ Grama Suvidha1 provides a digital village dashboard where every panchayat projec
 
 ## 👩‍💻 Developed By
 
-**Gagana G**
+**Aditha Muthamma B S**
 
-USN: 1AT22CG024
+USN: 1AT22CG006
 
 Atria Institute of Technology, Bangalore
 
